@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{AAD430BE-F086-4C3C-8491-91D5FD4D656F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="graph/Graph.cs">
+    <Files>
+      <File FileName="graph/Graph.cs" Line="8" Column="23" IsPinned="True" />
+      <File FileName="graph/Program.cs" IsPinned="True" />
+      <File FileName="graph/bin/Debug/netcoreapp3.1/input.txt" IsPinned="True" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="graph" expanded="True">
+            <Node name="graph" expanded="True">
+              <Node name="Graph.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.graph PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

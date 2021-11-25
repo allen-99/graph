@@ -1,0 +1,15 @@
+/Users/allen_99/Desktop/Учеба/Структуры данных/graph/graph/bin/Debug/net5.0/graph.deps.json
+/Users/allen_99/Desktop/Учеба/Структуры данных/graph/graph/bin/Debug/net5.0/graph.runtimeconfig.json
+/Users/allen_99/Desktop/Учеба/Структуры данных/graph/graph/bin/Debug/net5.0/graph.runtimeconfig.dev.json
+/Users/allen_99/Desktop/Учеба/Структуры данных/graph/graph/bin/Debug/net5.0/graph.dll
+/Users/allen_99/Desktop/Учеба/Структуры данных/graph/graph/bin/Debug/net5.0/ref/graph.dll
+/Users/allen_99/Desktop/Учеба/Структуры данных/graph/graph/bin/Debug/net5.0/graph.pdb
+/Users/allen_99/Desktop/Учеба/Структуры данных/graph/graph/obj/Debug/net5.0/graph.csprojAssemblyReference.cache
+/Users/allen_99/Desktop/Учеба/Структуры данных/graph/graph/obj/Debug/net5.0/graph.GeneratedMSBuildEditorConfig.editorconfig
+/Users/allen_99/Desktop/Учеба/Структуры данных/graph/graph/obj/Debug/net5.0/graph.AssemblyInfoInputs.cache
+/Users/allen_99/Desktop/Учеба/Структуры данных/graph/graph/obj/Debug/net5.0/graph.AssemblyInfo.cs
+/Users/allen_99/Desktop/Учеба/Структуры данных/graph/graph/obj/Debug/net5.0/graph.csproj.CoreCompileInputs.cache
+/Users/allen_99/Desktop/Учеба/Структуры данных/graph/graph/obj/Debug/net5.0/graph.dll
+/Users/allen_99/Desktop/Учеба/Структуры данных/graph/graph/obj/Debug/net5.0/ref/graph.dll
+/Users/allen_99/Desktop/Учеба/Структуры данных/graph/graph/obj/Debug/net5.0/graph.pdb
+/Users/allen_99/Desktop/Учеба/Структуры данных/graph/graph/obj/Debug/net5.0/graph.genruntimeconfig.cache
